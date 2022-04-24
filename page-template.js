@@ -21,7 +21,7 @@ module.exports = templateData => {
 - [License](#License)
 - [How to Contribute](#How-to-Contribute)
 - [Tests](#Tests)
-- [Questionse](#Contact-Me)\n
+- [Questions](#Contact-Me)\n
 
 <a name="Installation"></a>
 ## Installation \n${templateData.installation}\n

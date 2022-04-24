@@ -1,9 +1,10 @@
-# Awesome ReadMe
+# Awesome ReadMe Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description 
-This project is to create a ReadMe generator
+This project is to create ReadMe file
 
 ## Table of Contents 
 
@@ -17,26 +18,26 @@ This project is to create a ReadMe generator
 
 <a name="Installation"></a>
 ## Installation 
-Download this from github page
+download this from my github page
 
 
 <a name="Usage"></a>
 ## Usage 
-enter info
+sample usage
 
 
 <a name="License"></a>
 ## License 
-Awesome ReadMe is licensed under MIT license.
+Awesome ReadMe Generator is licensed under MIT,Apache 2.0 license.
 
 <a name="How-to-Contribute"></a>
 ## How to Contribute 
-me alone
+Only me
 
 
 <a name="Tests"></a>
 ## Tests 
-node index
+start generating by node index
 
 
 <a name="Contact-Me)"></a>

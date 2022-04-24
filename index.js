@@ -128,7 +128,7 @@ const test = pd => {
 test()
 .then(pd => {
   const page = generatePage(pd);
-  fs.writeFile('./README.md', page, err => {
+  fs.writeFile('./README(generated).md', page, err => {
     if (err) throw new Error(err);
   });
 });
